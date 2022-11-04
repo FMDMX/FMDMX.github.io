@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>feng的博客</title>
+  
+  <subtitle>枫</subtitle>
+  <link href="https://fmdmx.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fmdmx.github.io/"/>
+  <updated>2022-11-04T02:59:15.071Z</updated>
+  <id>https://fmdmx.github.io/</id>
+  
+  <author>
+    <name>2007130108向彪</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的歌单</title>
+    <link href="https://fmdmx.github.io/2019/05/17/2007130108%E5%90%91%E5%BD%AA/"/>
+    <id>https://fmdmx.github.io/2019/05/17/2007130108%E5%90%91%E5%BD%AA/</id>
+    <published>2019-05-17T08:14:00.000Z</published>
+    <updated>2022-11-04T02:59:15.071Z</updated>
+    
+    <content type="html"><![CDATA[<p><font color=#0c74d6 size=3 face="黑体"><strong>枫的歌单</strong></font></p><hr><h1 id="音乐播放器在我的歌单左下角"><a href="#音乐播放器在我的歌单左下角" class="headerlink" title="音乐播放器在我的歌单左下角"></a>音乐播放器在我的歌单左下角</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font color=#0c74d6 size=3 face=&quot;黑体&quot;&gt;&lt;strong&gt;枫的歌单&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;音乐播放器在我的歌单左下角&quot;&gt;&lt;a href=&quot;#音乐播放器在我的歌单左下角&quot; class=&quot;headerl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
